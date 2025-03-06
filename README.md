@@ -1,4 +1,31 @@
-## Systeme de Reservation vehicule(scooters,quad,buggy) en ligne
+## Online Scooter Reservation Platform
+
+## Overview
+
+The online scooter reservation platform is a web application developed to facilitate the booking and management of scooter rentals. It provides a user-friendly interface for customers to reserve scooters and for administrators to manage reservations.
+
+## Installation
+
+1. Clone the repository.
+    ```bash
+    git clone  https://github.com/bricio-imbiki/KintanaService.git
+    ```
+2. Set up the server environment.
+3. Import the `scooter_reservation.sql` file into the database.
+4. Configure the database connection settings in `Model/DbConnect.php`.
+5. Start the server and access `index.php` via the browser.
+
+## Usage
+
+1. Register or log in to the platform.
+2. Browse available scooters and select the desired one.
+3. Complete the reservation form and submit it.
+4. View and manage your reservations through your account.
+
+## Authors
+
+- Imbiki Bricio
+
 ## PAGE ACCUEIL
 ![PAGE ACCUEIL](https://github.com/bricio-imbiki/KintanaService/blob/main/public/images/kintaSeviceLocationpage.png)
 
